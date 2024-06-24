@@ -10,7 +10,6 @@ import com.example.demo.model.UserStatus;
 import com.example.demo.model.dto.UserCreateDto;
 import com.example.demo.model.dto.UserUpdateDto;
 import com.example.demo.repository.UserEntity;
-import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.mockito.BDDMockito;
 import org.springframework.beans.factory.annotation.Autowired;
